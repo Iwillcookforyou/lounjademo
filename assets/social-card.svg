@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b0e14"/>
+      <stop offset="1" stop-color="#0c1124"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6ee7b7"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(100,120)">
+    <rect x="0" y="0" width="1000" height="390" rx="24" fill="#0f1320" stroke="#1f2537"/>
+    <text x="60" y="120" fill="#e6edf3" font-family="Inter,Segoe UI,Arial" font-size="54" font-weight="800">Build & Sell AI Websites</text>
+    <text x="60" y="180" fill="#94a3b8" font-family="Inter,Segoe UI,Arial" font-size="28">A practical course with templates, code, and launch playbooks</text>
+    <g transform="translate(60,240)">
+      <rect x="0" y="0" width="360" height="90" rx="14" fill="#0a0d18" stroke="#1f2a44"/>
+      <text x="24" y="56" fill="#c7d2fe" font-family="Inter,Segoe UI,Arial" font-size="28">Idea → MVP in a weekend</text>
+    </g>
+    <g transform="translate(440,240)">
+      <rect x="0" y="0" width="360" height="90" rx="14" fill="#0a0d18" stroke="#1f2a44"/>
+      <text x="24" y="56" fill="#c7d2fe" font-family="Inter,Segoe UI,Arial" font-size="28">Stripe + SEO + Launch</text>
+    </g>
+    <g transform="translate(820,240)">
+      <rect x="0" y="0" width="120" height="90" rx="14" fill="url(#g)"/>
+    </g>
+  </g>
+</svg>
+
+
