@@ -9,9 +9,13 @@ const map = {
   "enroll-starter": links.starter,
   "enroll-pro": links.pro,
   "enroll-elite": links.elite,
+  "enroll-premium": links.premium,
+  "enroll-premium-plus": links.premiumPlus,
   "enroll-cta-starter": links.starter,
   "enroll-cta-pro": links.pro,
-  "enroll-cta-elite": links.elite
+  "enroll-cta-elite": links.elite,
+  "enroll-cta-premium": links.premium,
+  "enroll-cta-premium-plus": links.premiumPlus
 };
 
 Object.keys(map).forEach((id) => {
